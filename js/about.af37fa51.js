@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpractica_consolidacion_games"]=self["webpackChunkpractica_consolidacion_games"]||[]).push([[443],{782:function(a,n,c){c.r(n),c.d(n,{default:function(){return d}});var s=c(252);const i={class:"about"},t=(0,s._)("h1",null,"This is an about page",-1),e=[t];function o(a,n){return(0,s.wg)(),(0,s.iD)("div",i,e)}var r=c(744);const u={},l=(0,r.Z)(u,[["render",o]]);var d=l}}]);
+//# sourceMappingURL=about.af37fa51.js.map
